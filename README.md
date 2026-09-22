@@ -93,7 +93,7 @@ Applied AI/
 Clone the repository and enter its directory:
 
 ```powershell
-git clone YOUR_PRIVATE_GITHUB_REPOSITORY_URL
+git clone https://github.com/Anupama-Codes/personal-productivity-mcp.git
 cd "Applied AI"
 ```
 
