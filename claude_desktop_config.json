@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "personal-productivity-mcp": {
+      "command": "C:\\Users\\Anupama T\\OneDrive\\Desktop\\Applied AI\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\Anupama T\\OneDrive\\Desktop\\Applied AI\\run_server.py"
+      ]
+    }
+  }
+}
